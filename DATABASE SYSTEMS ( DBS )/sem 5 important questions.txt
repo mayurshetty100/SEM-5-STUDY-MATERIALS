@@ -1,0 +1,9 @@
+acid properties 
+state transaction diagrams 
+read and write operations
+graph of serializability 
+concurrency control and problems related to that ( four problems like last update, dirty read , incorrect summary)
+2pl(2 phase locking protocol/algorithm)
+deadlock and prevention technique
+timestamp ordering algorithm
+ARIES algorithm
