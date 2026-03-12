@@ -6,4 +6,5 @@ concurrency control and problems related to that ( four problems like last updat
 2pl(2 phase locking protocol/algorithm)
 deadlock and prevention technique
 timestamp ordering algorithm
+
 ARIES algorithm
